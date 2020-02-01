@@ -13,3 +13,4 @@ Simulação de E-commerce web com Arquitetura Flux(Redux & Redux-Saga)
 
 
 ## Resultado
+![alt text](https://github.com/denisonfer/ReactJs-eCommerce-Redux/blob/master/rocketshoes.gif "demo rocketshoes")
